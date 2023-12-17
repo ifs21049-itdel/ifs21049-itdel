@@ -1,4 +1,4 @@
-### Hi there 👋
+### An undergraduate informatics student who's currently seeking new experiences to broaden her knowledge
 
 <!--
 **ifs21049-itdel/ifs21049-itdel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
